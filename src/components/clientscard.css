@@ -21,3 +21,34 @@
 	border-radius: 16px;
 	box-shadow: 0px 3px 25px rgba(0, 0, 0, 0.1);
 }
+
+@media (max-width: 600px) {
+.clients_all{
+	display: grid;
+	grid-template-columns:50px 50px 50px;
+	grid-column-gap: 60px;
+	position: absolute;
+	margin-top: 40px;
+	grid-row: auto;
+	width: 300px;
+	height: 728px;
+	left: 26px;
+}
+
+.clientImg{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 50px;
+	width: 100px;
+	text-align: center;
+	border-radius: 5px;
+	padding: 3px;
+	box-shadow: 0px 3px 25px rgba(0, 0, 0, 0.1);
+}
+.clientImg img{
+	max-height: 100%;
+	max-width: 100%;
+}
+
+}

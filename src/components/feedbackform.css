@@ -83,3 +83,56 @@ input::-webkit-inner-spin-button {
 	box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.2);
 	border-radius: 16px;
 }
+
+
+@media (max-width: 600px) {
+	.feedbackcard{
+	width: 300px;
+	height: 820px;
+	margin-top: 300px;
+	left: 28px;
+ }
+
+.griditem1{
+	display:inline;
+	gap: 50px;
+  padding: 48px;
+
+}
+.griditem2{
+	padding: 4px;
+}
+.Attachment{
+	display:flex;
+	justify-content: space-between;
+	justify-content: baseline;
+}
+.smalltextbox{
+	width: 280px;
+}
+.bigtextbox{
+	width: 280px;
+}
+
+.midtextbox{
+	width: 230px;
+}
+.feedbackcard h1{
+	font-size: 20px;
+	line-height: 40px;
+}
+
+
+.getfreeQuote{
+	width: 200px;
+	height: 56px;
+	font-size: 25px;
+	font-weight: 700;
+	padding: 15px, 30px, 15px, 30px;
+	background: #214462;
+	border: 2px solid #262626;
+	margin-top: 30px;
+	left: 55px;
+	border-radius: 16px;
+}
+}
