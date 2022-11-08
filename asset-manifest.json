@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/consult-anubhav/static/css/main.64a142f4.css",
+    "main.js": "/consult-anubhav/static/js/main.901f73a6.js",
+    "static/media/heroimg.svg": "/consult-anubhav/static/media/heroimg.b703cc898d3275cd60fffc9cafb41b9c.svg",
+    "static/media/img10.svg": "/consult-anubhav/static/media/img10.ff37e09111057365b5249eef921a2bfe.svg",
+    "static/media/img13.svg": "/consult-anubhav/static/media/img13.4c94962595bdf9fe9a92c513b2accfa0.svg",
+    "static/media/img7.svg": "/consult-anubhav/static/media/img7.0fab1457711c332b03377cf6d8e36a5a.svg",
+    "static/media/img5.svg": "/consult-anubhav/static/media/img5.f5e2d0418b9d1e1c2a0ca9fad8ff64d6.svg",
+    "static/media/img11.svg": "/consult-anubhav/static/media/img11.92ed4c4cd4516708d0af085bc45dc2e9.svg",
+    "static/media/cheng.svg": "/consult-anubhav/static/media/cheng.442420fb447387b73930af1aa9348939.svg",
+    "static/media/img15.svg": "/consult-anubhav/static/media/img15.374574d1fa708227eb965283d16eb677.svg",
+    "static/media/img12.svg": "/consult-anubhav/static/media/img12.9e8e6d6b3351212a20c4959789908660.svg",
+    "static/media/img8.svg": "/consult-anubhav/static/media/img8.e58949dd9cd122b0c9c8dd14d027a603.svg",
+    "static/media/img9.svg": "/consult-anubhav/static/media/img9.457a3de7b70a6439037dd80763837db2.svg",
+    "static/media/img6.svg": "/consult-anubhav/static/media/img6.bcef0a7eed3a619953e3f5ecb9a64c22.svg",
+    "static/media/img4.svg": "/consult-anubhav/static/media/img4.897aad24d88ebc496719a43703bbb0fb.svg",
+    "static/media/img3.svg": "/consult-anubhav/static/media/img3.817f2467507175cbfada560419d963c3.svg",
+    "static/media/img14.svg": "/consult-anubhav/static/media/img14.c2c6c83d69b3bb94f1cd77e99ab13b6b.svg",
+    "static/media/img2.svg": "/consult-anubhav/static/media/img2.0fa8bebe810a14d3c38a960440a608ff.svg",
+    "static/media/amd.svg": "/consult-anubhav/static/media/amd.f4af387d6f0cfd7bca54d5562886e36e.svg",
+    "static/media/link.svg": "/consult-anubhav/static/media/link.2a0c78ebd03204f942365712449f90fc.svg",
+    "index.html": "/consult-anubhav/index.html",
+    "main.64a142f4.css.map": "/consult-anubhav/static/css/main.64a142f4.css.map",
+    "main.901f73a6.js.map": "/consult-anubhav/static/js/main.901f73a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64a142f4.css",
+    "static/js/main.901f73a6.js"
+  ]
+}
