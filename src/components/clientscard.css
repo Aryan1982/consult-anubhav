@@ -1,0 +1,23 @@
+
+
+.clients_all{
+	display: grid;
+	grid-template-columns:200px 200px 200px;
+	grid-gap: 32px;
+	position: absolute;
+	margin-top: 64px;
+	width: 664px;
+	height: 728px;
+	right: 96px;
+}
+
+.clientImg{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100px;
+	width: 200px;
+	text-align: center;
+	border-radius: 16px;
+	box-shadow: 0px 3px 25px rgba(0, 0, 0, 0.1);
+}

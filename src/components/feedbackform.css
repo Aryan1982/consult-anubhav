@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@700&family=Poppins:wght@700&display=swap');
+
+.feedbackcard{
+	position: absolute;
+	width: 688px;
+	height: 758px;
+	margin-top: 64px;
+	right: 96px;
+	box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.05);
+	border-radius: 24px;
+	font-family: inter;
+ }
+
+.griditem1{
+	display:grid;
+	gap: 50px;
+	grid-template-columns:auto auto;
+  	grid-row: 1;
+  	padding: 48px;
+
+}
+.griditem2{
+	padding: 48px;
+}
+.Attachment{
+	display:flex;
+	justify-content: space-between;
+	justify-content: baseline;
+}
+.smalltextbox{
+	width: 280px;
+}
+.bigtextbox{
+	width: 592px;
+}
+
+.midtextbox{
+	width: 504px;
+}
+.bigtextbox,.smalltextbox,.midtextbox{
+	border: none;
+	box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.05);
+	border-radius: 8px;
+	font-size: 20px;
+	font-family: inter;
+	font-weight: 400;
+	height: 58px;
+}
+.feedbackcard h1{
+	padding: 7px;
+	color: #262626;
+	font-size: 25px;
+	line-height: 48px;
+}
+.link{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border:none;
+	box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.05);
+	border-radius: 8px;
+	width: 58px;
+	height: 58px;
+}
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+.getfreeQuote{
+	font-family: inter;
+	position: relative;
+	color: white;
+	width: 296px;
+	height: 78px;
+	font-size: 32px;
+	font-weight: 700;
+	right: 86px;
+	padding: 15px, 30px, 15px, 30px;
+	background: #214462;
+	border: 2px solid #262626;
+	margin-top: 30px;
+	left: 150px;
+	box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.2);
+	border-radius: 16px;
+}
