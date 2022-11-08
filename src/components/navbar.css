@@ -47,3 +47,20 @@
 	border: solid;
 	border-width: 1px;
 }
+
+
+@media (max-width: 600px) {
+.navbar{
+	height: 50px;
+	padding: 30px 5%;
+}
+.company_title{
+	font-size: 20px;
+}
+
+.navLinks li,.contactbtn{ 
+	display: none;
+}
+
+
+}

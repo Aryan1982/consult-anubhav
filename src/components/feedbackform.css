@@ -97,7 +97,6 @@ input::-webkit-inner-spin-button {
 	display:inline;
 	gap: 50px;
   padding: 48px;
-
 }
 .griditem2{
 	padding: 4px;
@@ -134,5 +133,9 @@ input::-webkit-inner-spin-button {
 	margin-top: 30px;
 	left: 55px;
 	border-radius: 16px;
+}
+.bigtextbox,.smalltextbox,.midtextbox{
+	margin-left: 5px;
+	padding-left: 5px;
 }
 }
