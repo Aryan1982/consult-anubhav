@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/consult-anubhav/static/css/main.64a142f4.css",
+    "main.css": "/consult-anubhav/static/css/main.e5de7332.css",
     "main.js": "/consult-anubhav/static/js/main.901f73a6.js",
     "static/media/heroimg.svg": "/consult-anubhav/static/media/heroimg.b703cc898d3275cd60fffc9cafb41b9c.svg",
     "static/media/img10.svg": "/consult-anubhav/static/media/img10.ff37e09111057365b5249eef921a2bfe.svg",
@@ -21,11 +21,11 @@
     "static/media/amd.svg": "/consult-anubhav/static/media/amd.f4af387d6f0cfd7bca54d5562886e36e.svg",
     "static/media/link.svg": "/consult-anubhav/static/media/link.2a0c78ebd03204f942365712449f90fc.svg",
     "index.html": "/consult-anubhav/index.html",
-    "main.64a142f4.css.map": "/consult-anubhav/static/css/main.64a142f4.css.map",
+    "main.e5de7332.css.map": "/consult-anubhav/static/css/main.e5de7332.css.map",
     "main.901f73a6.js.map": "/consult-anubhav/static/js/main.901f73a6.js.map"
   },
   "entrypoints": [
-    "static/css/main.64a142f4.css",
+    "static/css/main.e5de7332.css",
     "static/js/main.901f73a6.js"
   ]
 }
